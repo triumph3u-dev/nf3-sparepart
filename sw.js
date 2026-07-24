@@ -2,7 +2,7 @@
  * เปลี่ยนเลข CACHE ทุกครั้งที่แก้ index.html ไม่งั้นเครื่องที่ติดตั้งไว้แล้ว
  * จะยังใช้ไฟล์เก่าค้างอยู่
  */
-const CACHE = "nf3-sp-v7";
+const CACHE = "nf3-sp-v8";
 
 const SHELL = [
   "./",
